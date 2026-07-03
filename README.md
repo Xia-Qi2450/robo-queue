@@ -7,8 +7,7 @@ Uses the Tkinter library for GUI, Pygame for playing audio and pyttsx3 for Text-
 
 For Windows:
 
-> pygame v2.6.1 or higher 
-> pyttsx3 v2.99 or higher
+> pygame v2.6.1 or higher and pyttsx3 v2.99 or higher
 
 For MacOS: 
 
