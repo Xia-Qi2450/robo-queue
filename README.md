@@ -25,7 +25,7 @@ No more screaming names across the hall until your voice disappears.
 
 ## Installing
 
-As a wise ShitHub user once said:
+As a wise GitHub user once said:
 
 > "WHY IS THERE CODE??? MAKE A .EXE FILE!"
 
